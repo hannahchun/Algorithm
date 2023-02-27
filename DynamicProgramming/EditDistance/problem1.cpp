@@ -1,3 +1,6 @@
+// Given two strings str1 and str2 and operations (Insert, Remove, Replace) that can be performed on str1, 
+// find minimum number of edits (operations) required to convert ‘str1’ into ‘str2’.  
+
 // Recursion
 #include <iostream>
 
